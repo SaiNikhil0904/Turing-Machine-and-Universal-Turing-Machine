@@ -1,0 +1,5 @@
+q1,1Lq2,0Rq1,-
+q2,bRq3,0Lq2,1Lq2
+q3,-,bRq4,bRq5
+q4,0Rq5,0Rq4,1Rq4
+q5,0Lq2,-,- 
